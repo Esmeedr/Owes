@@ -4,5 +4,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def Owescool():
-    test = "<p>Owes is the coolest team ever!</p>"
+    test = "<p>Dit is een test leuk hea!</p>"
     return test 
