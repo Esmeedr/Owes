@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def Owescool():
-    return "<p>Owes is the coolest team ever!</p>"
+    return "<p>werkt het nu wel dan?</p>"
